@@ -1,0 +1,37 @@
+.example-form-field {
+    width: 400px;
+    margin-left:15px;
+  }
+
+.form {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:50px;
+}
+
+.label {
+    font-size:40px;
+    color: lightcoral;
+}
+
+.input {
+    
+    padding-top:50px;
+    color: lightcoral;
+}  
+
+.button {
+    font-weight:bold;
+    font-size:24px;
+    margin-left : 25px;
+    background-color: lightcoral;
+    border:none;
+    width: 80px;
+    height:80px;
+    border-radius: 20%;
+}
+
+.button:hover{
+    cursor: pointer;
+}
